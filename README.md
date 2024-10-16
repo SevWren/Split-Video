@@ -47,3 +47,9 @@ It leverages **FFmpeg** for video processing and provides a graphical user inter
 
    ```bash
    python split_video.py
+
+---
+Example Output:
+
+![output_example](https://github.com/user-attachments/assets/7a889ffa-b871-4dc9-8547-dfdde0f53cb4)
+
